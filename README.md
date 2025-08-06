@@ -52,7 +52,7 @@ Link  [Deployed Link](https://frontend-qc5uhi42y-bharath-govindulas-projects.ver
 
 1. Clone the repository
    ```
-   git clone <repository-url>
+   git https://github.com/BharathGovindula/E-commerce-project.git
    cd Ecommerce-project
    ```
 
