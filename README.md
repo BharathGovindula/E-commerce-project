@@ -5,6 +5,21 @@ A modern e-commerce web application built with React, featuring product browsing
 
 Link  [Deployed Link](https://frontend-qc5uhi42y-bharath-govindulas-projects.vercel.app).
 
+## Screenshots
+
+<img width="1589" height="815" alt="Screenshot 2025-08-06 212203" src="https://github.com/user-attachments/assets/1e8d6246-fb45-435d-892d-9d78dfe5875c" />
+<img width="1588" height="812" alt="Screenshot 2025-08-06 212251" src="https://github.com/user-attachments/assets/2da0a6f4-02e2-4046-9776-4605ad404ecc" />
+<img width="1608" height="811" alt="Screenshot 2025-08-06 212342" src="https://github.com/user-attachments/assets/82f681a7-f3cf-40c6-90c5-8d635217fefa" />
+<img width="1596" height="812" alt="Screenshot 2025-08-06 212400" src="https://github.com/user-attachments/assets/c2d502ef-3d27-47b7-9836-89a150a8a93f" />
+<img width="1537" height="803" alt="Screenshot 2025-08-06 212501" src="https://github.com/user-attachments/assets/1079e320-8579-416d-bc27-2d01d98f0c08" />
+<img width="1624" height="795" alt="Screenshot 2025-08-06 212534" src="https://github.com/user-attachments/assets/1a372e47-714a-41b8-8e24-807f9e7db2c6" />
+
+
+
+
+
+
+
 
 
 ## Project Structure
